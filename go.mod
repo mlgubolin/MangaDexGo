@@ -1,4 +1,4 @@
-module mangadexgo/internal/postgres
+module mangadexgo
 
 go 1.23.0
 
